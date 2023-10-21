@@ -21,6 +21,8 @@
 <a href="https://www.leetcode.com/khawajajunaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khawajajunaid" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=khawajaJunaid)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
