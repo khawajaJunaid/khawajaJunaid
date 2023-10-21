@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khawajajunaid@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bqzH7G1uQelx8rrTehcQA3dbyY_ca8AV/view?usp=sharing](https://drive.google.com/file/d/1bqzH7G1uQelx8rrTehcQA3dbyY_ca8AV/view?usp=sharing)
+- 📄 Know about my experiences [visit my Resume](https://drive.google.com/file/d/1bqzH7G1uQelx8rrTehcQA3dbyY_ca8AV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
