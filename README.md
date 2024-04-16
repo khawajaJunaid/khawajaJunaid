@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">Fueling Innovation from the Code's Core: Dedicated Software Engineer</h3>
 
-- 🔭 I’m currently working on [MetaGPT](https://github.com/khawajaJunaid/MetaGPT)
+- 🔭 I’m currently working on my portfolio website based on NextJS
 
 - 🌱 I’m currently learning **NextJS,Golang,Rust**
 
