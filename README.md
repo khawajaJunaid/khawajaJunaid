@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio website based on NextJS
 
-- 🌱 I’m currently learning **NextJS,Golang,Rust**
+- 🌱 I’m currently learning **NextJS,Golang**
 
 - 📝 I regularly write articles on [https://medium.com/@khjunaid.7](https://medium.com/@khjunaid.7)
 
